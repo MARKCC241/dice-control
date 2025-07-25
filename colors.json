@@ -1,3 +1,6 @@
 {
-  "excludedColors": []
+  "excludedColors": [
+    "red",
+    "orange"
+  ]
 }
