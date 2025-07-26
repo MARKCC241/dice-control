@@ -1,5 +1,7 @@
 {
   "excludedColors": [
-    "red"
+    "gold",
+    "green",
+    "blue"
   ]
 }
